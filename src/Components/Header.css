@@ -1,0 +1,12 @@
+
+.Logo{
+ height: 50px;   
+ display: flex;
+ font-family: monospace;
+}
+
+.AppBar .MuiAppBar-root
+{
+    background-color: #303030;
+}
+
